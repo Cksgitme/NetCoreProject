@@ -1,0 +1,2 @@
+# NetCoreProject
+NetCore  Test Project 
