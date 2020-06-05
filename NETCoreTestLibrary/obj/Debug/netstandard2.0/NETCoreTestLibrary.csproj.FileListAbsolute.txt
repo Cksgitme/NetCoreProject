@@ -1,0 +1,9 @@
+D:\NetCoreProject\NETCoreTestApplication\NETCoreTestLibrary\bin\Debug\netstandard2.0\NETCoreTestLibrary.deps.json
+D:\NetCoreProject\NETCoreTestApplication\NETCoreTestLibrary\bin\Debug\netstandard2.0\NETCoreTestLibrary.dll
+D:\NetCoreProject\NETCoreTestApplication\NETCoreTestLibrary\obj\Debug\netstandard2.0\NETCoreTestLibrary.csprojAssemblyReference.cache
+D:\NetCoreProject\NETCoreTestApplication\NETCoreTestLibrary\obj\Debug\netstandard2.0\NETCoreTestLibrary.AssemblyInfoInputs.cache
+D:\NetCoreProject\NETCoreTestApplication\NETCoreTestLibrary\obj\Debug\netstandard2.0\NETCoreTestLibrary.AssemblyInfo.cs
+D:\NetCoreProject\NETCoreTestApplication\NETCoreTestLibrary\bin\Debug\netstandard2.0\NETCoreTestLibrary.pdb
+D:\NetCoreProject\NETCoreTestApplication\NETCoreTestLibrary\obj\Debug\netstandard2.0\NETCoreTestLibrary.csproj.CoreCompileInputs.cache
+D:\NetCoreProject\NETCoreTestApplication\NETCoreTestLibrary\obj\Debug\netstandard2.0\NETCoreTestLibrary.dll
+D:\NetCoreProject\NETCoreTestApplication\NETCoreTestLibrary\obj\Debug\netstandard2.0\NETCoreTestLibrary.pdb
